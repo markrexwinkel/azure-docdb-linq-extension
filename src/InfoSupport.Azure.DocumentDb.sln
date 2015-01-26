@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoSupport.Azure.DocumentDb", "InfoSupport.Azure.DocumentDb\InfoSupport.Azure.DocumentDb.csproj", "{4E45F71C-CB45-441D-9B2B-9E149EF35222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApp", "DemoApp\DemoApp.csproj", "{B6BBD972-7B64-4E51-BAE3-143DBC55F736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E45F71C-CB45-441D-9B2B-9E149EF35222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E45F71C-CB45-441D-9B2B-9E149EF35222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E45F71C-CB45-441D-9B2B-9E149EF35222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E45F71C-CB45-441D-9B2B-9E149EF35222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6BBD972-7B64-4E51-BAE3-143DBC55F736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BBD972-7B64-4E51-BAE3-143DBC55F736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BBD972-7B64-4E51-BAE3-143DBC55F736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BBD972-7B64-4E51-BAE3-143DBC55F736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

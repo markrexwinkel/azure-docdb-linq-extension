@@ -1,0 +1,14 @@
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\bin\Debug\DemoApp.exe.config
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\bin\Debug\DemoApp.exe
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\bin\Debug\DemoApp.pdb
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\bin\Debug\InfoSupport.Azure.DocumentDb.dll
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\bin\Debug\InfoSupport.Azure.DocumentDb.pdb
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\obj\Debug\DemoApp.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\obj\Debug\DemoApp.exe
+c:\users\mark\documents\visual studio 2013\Projects\InfoSupport.Azure.DocumentDb\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\InfoSupport.Azure.DocumentDb\src\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\InfoSupport.Azure.DocumentDb\src\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\InfoSupport.Azure.DocumentDb\src\DemoApp\obj\Debug\DemoApp.pdb
